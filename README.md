@@ -10,4 +10,5 @@ Numbers will be in the following format:
 2. If there is a decimal point, the string before the decimal point should consist only of 0.
 3. If the number starts with 0', it is either just 0, or 0.[something] where the [something] is a string of digits.
 
-![Picture1](https://github.com/WilliamSottoriva/DFA-Token-Validator/assets/60838237/67d40bf8-9b0a-43d3-b595-de7d8eeb0fb6)
+
+![Picture3](https://github.com/WilliamSottoriva/DFA-Token-Validator/assets/60838237/2f313257-1745-4ee1-8f74-18dc2b7599ab)
